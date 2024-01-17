@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:195ea0b4bb674a8491ab6bc101da203089c2fb362ec6486e703e875b77a71101
-size 1516
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Npgsql" Version="8.0.1" />
+  </ItemGroup>
+
+</Project>

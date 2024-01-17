@@ -1,3 +1,62 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:7583906c02f4d371428fa76ce688f53d8c28de88c4551efa01abe34055d64464
-size 1125
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Asistencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Asistente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Citas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ConsultarCompra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ConsultarVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Contra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Empleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ganancias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mascota.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MascotaM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Mostrador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NuevaSesion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Producto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProductoM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Proveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegistrarCompra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegistrarVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegistrarVentaM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Veterinario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

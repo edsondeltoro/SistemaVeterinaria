@@ -1,0 +1,45 @@
+C:\Users\edson\source\repos\Sistema Veterinaria 4.0.0\Sistema Veterinaria\obj\Debug\net6.0-windows\Sistema Veterinaria.csproj.AssemblyReference.cache
+C:\Users\edson\source\repos\Sistema Veterinaria 4.0.0\Sistema Veterinaria\obj\Debug\net6.0-windows\Sistema_Veterinaria.Asistencia_cs.resources
+C:\Users\edson\source\repos\Sistema Veterinaria 4.0.0\Sistema Veterinaria\obj\Debug\net6.0-windows\Sistema_Veterinaria.Asistente.resources
+C:\Users\edson\source\repos\Sistema Veterinaria 4.0.0\Sistema Veterinaria\obj\Debug\net6.0-windows\Sistema_Veterinaria.Citas.resources
+C:\Users\edson\source\repos\Sistema Veterinaria 4.0.0\Sistema Veterinaria\obj\Debug\net6.0-windows\Sistema_Veterinaria.ConsultarCompra.resources
+C:\Users\edson\source\repos\Sistema Veterinaria 4.0.0\Sistema Veterinaria\obj\Debug\net6.0-windows\Sistema_Veterinaria.ConsultarVenta.resources
+C:\Users\edson\source\repos\Sistema Veterinaria 4.0.0\Sistema Veterinaria\obj\Debug\net6.0-windows\Sistema_Veterinaria.Contra.resources
+C:\Users\edson\source\repos\Sistema Veterinaria 4.0.0\Sistema Veterinaria\obj\Debug\net6.0-windows\Sistema_Veterinaria.Empleado.resources
+C:\Users\edson\source\repos\Sistema Veterinaria 4.0.0\Sistema Veterinaria\obj\Debug\net6.0-windows\Sistema_Veterinaria.Ganancias.resources
+C:\Users\edson\source\repos\Sistema Veterinaria 4.0.0\Sistema Veterinaria\obj\Debug\net6.0-windows\Sistema_Veterinaria.Mascota.resources
+C:\Users\edson\source\repos\Sistema Veterinaria 4.0.0\Sistema Veterinaria\obj\Debug\net6.0-windows\Sistema_Veterinaria.MascotaM.resources
+C:\Users\edson\source\repos\Sistema Veterinaria 4.0.0\Sistema Veterinaria\obj\Debug\net6.0-windows\Sistema_Veterinaria.Mostrador.resources
+C:\Users\edson\source\repos\Sistema Veterinaria 4.0.0\Sistema Veterinaria\obj\Debug\net6.0-windows\Sistema_Veterinaria.NuevaSesion.resources
+C:\Users\edson\source\repos\Sistema Veterinaria 4.0.0\Sistema Veterinaria\obj\Debug\net6.0-windows\Sistema_Veterinaria.Producto.resources
+C:\Users\edson\source\repos\Sistema Veterinaria 4.0.0\Sistema Veterinaria\obj\Debug\net6.0-windows\Sistema_Veterinaria.ProductoM.resources
+C:\Users\edson\source\repos\Sistema Veterinaria 4.0.0\Sistema Veterinaria\obj\Debug\net6.0-windows\Sistema_Veterinaria.Properties.Resources.resources
+C:\Users\edson\source\repos\Sistema Veterinaria 4.0.0\Sistema Veterinaria\obj\Debug\net6.0-windows\Sistema_Veterinaria.Proveedor.resources
+C:\Users\edson\source\repos\Sistema Veterinaria 4.0.0\Sistema Veterinaria\obj\Debug\net6.0-windows\Sistema_Veterinaria.RegistrarCompra.resources
+C:\Users\edson\source\repos\Sistema Veterinaria 4.0.0\Sistema Veterinaria\obj\Debug\net6.0-windows\Sistema_Veterinaria.RegistrarVenta.resources
+C:\Users\edson\source\repos\Sistema Veterinaria 4.0.0\Sistema Veterinaria\obj\Debug\net6.0-windows\Sistema_Veterinaria.RegistrarVentaM.resources
+C:\Users\edson\source\repos\Sistema Veterinaria 4.0.0\Sistema Veterinaria\obj\Debug\net6.0-windows\Sistema_Veterinaria.Veterinario.resources
+C:\Users\edson\source\repos\Sistema Veterinaria 4.0.0\Sistema Veterinaria\obj\Debug\net6.0-windows\Sistema Veterinaria.csproj.GenerateResource.cache
+C:\Users\edson\source\repos\Sistema Veterinaria 4.0.0\Sistema Veterinaria\obj\Debug\net6.0-windows\Sistema Veterinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edson\source\repos\Sistema Veterinaria 4.0.0\Sistema Veterinaria\obj\Debug\net6.0-windows\Sistema Veterinaria.AssemblyInfoInputs.cache
+C:\Users\edson\source\repos\Sistema Veterinaria 4.0.0\Sistema Veterinaria\obj\Debug\net6.0-windows\Sistema Veterinaria.AssemblyInfo.cs
+C:\Users\edson\source\repos\Sistema Veterinaria 4.0.0\Sistema Veterinaria\obj\Debug\net6.0-windows\Sistema Veterinaria.csproj.CoreCompileInputs.cache
+C:\Users\edson\source\repos\Sistema Veterinaria 4.0.0\Sistema Veterinaria\obj\Debug\net6.0-windows\Sistema Veterinaria.sourcelink.json
+C:\Users\edson\source\repos\Sistema Veterinaria 4.0.0\Sistema Veterinaria\bin\Debug\net6.0-windows\Sistema Veterinaria.exe
+C:\Users\edson\source\repos\Sistema Veterinaria 4.0.0\Sistema Veterinaria\bin\Debug\net6.0-windows\Sistema Veterinaria.deps.json
+C:\Users\edson\source\repos\Sistema Veterinaria 4.0.0\Sistema Veterinaria\bin\Debug\net6.0-windows\Sistema Veterinaria.runtimeconfig.json
+C:\Users\edson\source\repos\Sistema Veterinaria 4.0.0\Sistema Veterinaria\bin\Debug\net6.0-windows\Sistema Veterinaria.dll
+C:\Users\edson\source\repos\Sistema Veterinaria 4.0.0\Sistema Veterinaria\bin\Debug\net6.0-windows\Sistema Veterinaria.pdb
+C:\Users\edson\source\repos\Sistema Veterinaria 4.0.0\Sistema Veterinaria\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\edson\source\repos\Sistema Veterinaria 4.0.0\Sistema Veterinaria\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\edson\source\repos\Sistema Veterinaria 4.0.0\Sistema Veterinaria\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\edson\source\repos\Sistema Veterinaria 4.0.0\Sistema Veterinaria\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\edson\source\repos\Sistema Veterinaria 4.0.0\Sistema Veterinaria\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\edson\source\repos\Sistema Veterinaria 4.0.0\Sistema Veterinaria\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\edson\source\repos\Sistema Veterinaria 4.0.0\Sistema Veterinaria\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\edson\source\repos\Sistema Veterinaria 4.0.0\Sistema Veterinaria\obj\Debug\net6.0-windows\Sistema Veterinaria.csproj.CopyComplete
+C:\Users\edson\source\repos\Sistema Veterinaria 4.0.0\Sistema Veterinaria\obj\Debug\net6.0-windows\Sistema Veterinaria.dll
+C:\Users\edson\source\repos\Sistema Veterinaria 4.0.0\Sistema Veterinaria\obj\Debug\net6.0-windows\refint\Sistema Veterinaria.dll
+C:\Users\edson\source\repos\Sistema Veterinaria 4.0.0\Sistema Veterinaria\obj\Debug\net6.0-windows\Sistema Veterinaria.pdb
+C:\Users\edson\source\repos\Sistema Veterinaria 4.0.0\Sistema Veterinaria\obj\Debug\net6.0-windows\Sistema Veterinaria.genruntimeconfig.cache
+C:\Users\edson\source\repos\Sistema Veterinaria 4.0.0\Sistema Veterinaria\obj\Debug\net6.0-windows\ref\Sistema Veterinaria.dll
