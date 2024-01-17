@@ -1,21 +1,3 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Sistema_Veterinaria
-{
-    class Global
-    {
-        private static int id_empleado;
-
-        public static void setid(int a)
-        {
-            id_empleado = a;
-        }
-
-        public static int getid()
-        {
-            return id_empleado;
-        }
-    }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfb1098db6004d1dbe95a7571ee04ed43c824dd5af009195f4930ae708952734
+size 372

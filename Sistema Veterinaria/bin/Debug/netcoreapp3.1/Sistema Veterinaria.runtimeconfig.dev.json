@@ -1,9 +1,3 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\edson\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\edson\\.nuget\\packages",
-      "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-    ]
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d6c62c61bc6b0fc368a70b4050fbf0d635a1790f618a0001db8bac845c717cc
+size 256
